@@ -34,7 +34,7 @@
     display: none;
 }
 
-#container {
+.container {
     width: 1000px;
     margin: 0 auto;
 }
@@ -67,11 +67,11 @@ footer{
 
 @font-face{
     font-family: 'montserrat';
-    src:url('../fonts/Montserrat_Alternates/MontserratAlternates-Black.ttf') format('truetype'),
+    src:url('../fonts/Montserrat_Alternates/MontserratAlternates-Black.ttf') format('truetype')
     url('../fonts/Montserrat_Alternates/MontserratAlternates-Bold.ttf') format('truetype'),
     url('../fonts/Montserrat_Alternates/MontserratAlternates-Italic.ttf') format('truetype'),
     url('../fonts/Montserrat_Alternates/MontserratAlternates-Light.ttf') format('truetype'),
-    url('../fonts/Montserrat_Alternates/MontserratAlternates-Regular.ttf') format('truetype')
+    url('../fonts/Montserrat_Alternates/MontserratAlternates-Regular.ttf') format('truetype'),
     url('../fonts/Montserrat_Alternates/MontserratAlternates-Thin.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
